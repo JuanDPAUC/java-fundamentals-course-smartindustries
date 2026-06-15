@@ -26,7 +26,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles for y while.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/WIwKLRAGUJw)
 - **Conclusiones clave**: `if (edad >= 15) {}`; `for (int i=1; i<=5; i++) {}`; `while (contador <= 5) {}`
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
 
