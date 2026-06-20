@@ -14,7 +14,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/_02mp8oRXqg)
 - **Conclusiones clave**: Java se usa para aplicaciones, videojuegos y apps Android; los programas son instrucciones para computadoras.
 - **Empieza a programar**: [Abrir JDoodle - Hola mundo](https://onlinegdb.com/DFuT7QdvM) 👈 **¡No requiere instalación!**
 
@@ -47,7 +47,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Construye un sistema de registro de estudiantes integrando todo lo aprendido, conoce los errores comunes y los siguientes pasos.
 - **Enlace**: [Ver la lección](https://youtu.be/UVs848bWcJY)
 - **Consejos clave**: Nombres descriptivos, indentación, leer mensajes de error, probar con distintos valores, comentar el código, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Compartir tu trabajo**: [Enviar creación](https://docs.google.com/forms/d/e/1FAIpQLSccvzGEe9RwOWLT-MTdeR9rQ3-XRke0Ua2NlWNXbj9cioKmYQ/viewform?usp=publish-editor)
 
 ## Recursos adicionales
 
