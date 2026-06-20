@@ -16,7 +16,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
 - **Conclusiones clave**: Java se usa para aplicaciones, videojuegos y apps Android; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir JDoodle - Hola mundo](https://www.jdoodle.com/online-java-compiler/) 👈 **¡No requiere instalación!**
+- **Empieza a programar**: [Abrir JDoodle - Hola mundo](https://onlinegdb.com/DFuT7QdvM) 👈 **¡No requiere instalación!**
 
 ### Lección 2: Variables y Tipos de Datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables y conoce los tipos int, double, String y boolean.
@@ -56,7 +56,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Número de lección | Actividad | Empezar a programar |
 |----------|----------|-------------|
-| 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
+| 1 | Hola mundo | [OnlineGDB](https://onlinegdb.com/DFuT7QdvM) |
 | 2 | Variables y operadores | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
 | 3 | Bucles y decisiones | [JDoodle](https://www.jdoodle.com/ga/in%2BSiOj1B8tnZyHu%2FJslfQ%3D%3D) |
 | 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/GI8JMeb7Tv) |
