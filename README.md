@@ -45,7 +45,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 6: Proyecto Final, Mejores Prácticas y Próximos Pasos (10 minutos)
 - **Descripción**: Construye un sistema de registro de estudiantes integrando todo lo aprendido, conoce los errores comunes y los siguientes pasos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección](https://youtu.be/UVs848bWcJY)
 - **Consejos clave**: Nombres descriptivos, indentación, leer mensajes de error, probar con distintos valores, comentar el código, explorar la documentación de Oracle Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
 
@@ -61,9 +61,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 3 | Bucles y decisiones | [JDoodle](https://youtu.be/3655wuD-9b4) |
 | 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/GI8JMeb7Tv) |
 | 5 | Clases y objetos (POO) | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
-| 6 | Proyecto final | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
+| 6 | Proyecto final | [OnlineGDB](https://onlinegdb.com/a_bIx8fcw) |
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSccvzGEe9RwOWLT-MTdeR9rQ3-XRke0Ua2NlWNXbj9cioKmYQ/viewform?usp=publish-editor)
 - Compartir: #JavaBeginners
 
 **¡Gracias por completar el curso!**
@@ -79,5 +79,5 @@ NRC 11881
 
 **Nombre del equipo**: SmartLock
 **Líder del equipo**: Juan David Ayllon Pauccar
-**Integrantes del equipo**: Gabriel Peñaranda, Aldo Jesus Huaman Oscco, Imanol Limache
-**Fecha de entrega**: [Fecha]
+**Integrantes del equipo**: Aldo Jesus Huaman Oscco, Imanol Limache
+**Fecha de entrega**: 20/06/26
