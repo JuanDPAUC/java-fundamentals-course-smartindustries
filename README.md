@@ -20,7 +20,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 2: Variables y Tipos de Datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables y conoce los tipos int, double, String y boolean.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/EXh8CScPAMQ)
 - **Conclusiones clave**: Usa int, String, double, boolean; declara como `String nombre = "Carlos";`; opera con +, -, *, /, %.
 - **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler/) 👈 **¡No es necesario registrarse!**
 
@@ -39,7 +39,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 5: Clases, Objetos y Fundamentos de POO (15 minutos)
 - **Descripción**: Construye clases con atributos y métodos, crea objetos con constructores, aplica encapsulación con getters/setters y trabaja con arrays de objetos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/_eayjqnEj18)
 - **Conclusiones clave**: Clase = molde; objeto = instancia; `private` protege datos; getters/setters los exponen; arrays de objetos como `Estudiante[] aula = new Estudiante[3];`
 - **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/online_java_compiler) 👈 **¡Guarda y comparte!**
 
