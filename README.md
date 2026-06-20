@@ -79,5 +79,5 @@ NRC 11881
 
 **Nombre del equipo**: SmartLock
 **Líder del equipo**: Juan David Ayllon Pauccar
-**Integrantes del equipo**: Aldo Jesus Huaman Oscco, Imanol Limache
+**Integrantes del equipo**: Aldo Jesus Huaman Oscco, Imanol Fabricio Limache Coronel
 **Fecha de entrega**: 20/06/26
