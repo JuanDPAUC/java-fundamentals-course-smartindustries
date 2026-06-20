@@ -58,7 +58,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 |----------|----------|-------------|
 | 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
 | 2 | Variables y operadores | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
-| 3 | Bucles y decisiones | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
+| 3 | Bucles y decisiones | [JDoodle](https://youtu.be/3655wuD-9b4) |
 | 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/GI8JMeb7Tv) |
 | 5 | Clases y objetos (POO) | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 | 6 | Proyecto final | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
